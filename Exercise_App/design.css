@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* setting the bg-color of the complete window */
+.stApp, .e8zbici2 {
+    /* background-color: rgb(104, 8, 8); */
+    background-image: linear-gradient(to right, rgb(173, 0, 0) , rgb(199, 2, 2));
+}
+
+/* disabel full view button */
+.e19lei0e1, .exg6vvm13, .css-15zrgzn, .css-eczf16 {
+    display: none;
+}
+
+
+.epcbefy1 {
+    background: hsla(358, 77%, 52%, 1);
+    color: white;
+    border-radius: 30px;
+}
+
+.exg6vvm15 {
+    border-radius: 50px;
+    background: hsla(357, 79%, 62%, 1);
+    padding: 1em 4em;
+}
+
+.st-c0, .st-bz, .st-by, .st-bx {
+
+    border-bottom-color: white;
+    border-top-color: white;
+    border-right-color: white;
+    border-left-color: white;
+
+}
+
+.st-cl {
+    background-color: white;
+    border-bottom-color: rgb(104 8 8);
+    border-top-color: rgb(104 8 8);
+    border-right-color: rgb(104 8 8);
+    border-left-color: rgb(104 8 8);
+
+}
+.st-cr {
+    background-color: rgb(104 8 8);
+    border-color: rgb(104 8 8);
+}
+
+div[data-baseweb="input"] {
+    border-radius: 50px;
+    border: 2px solid white;
+}
+
+div[data-baseweb="base-input"] {
+    background: hsla(357, 79%, 62%, 1);
+}
+
+input[type="text"] {
+    color: white;
+}
+
+.edgvbvh5 {
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    background: hsla(357, 79%, 62%, 1);
+}
+
+/* button hover text color  */
+.edgvbvh5:hover, .exg6vvm12, .euu6i2w0, .edgvbvh9, .effi0qh3 {
+    color: white;
+}
+
+.exg6vvm13 {
+    display: none;
+}
+
+.e16nr0p30 {
+    color: white;
+    font-weight: bolder;
+    font-family: 'Lora', Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.ek41t0m0, .e16fv1kl3 {
+    color: white;
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: center;
+}
+
+.edgvbvh9 {
+    background: hsla(357, 79%, 62%, 1);
+    border: none;
+}
+
+.css-rva1ki, .css-1u40okl {
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+/* hiding the main menubar */
+#MainMenu {
+    display: none;
+}
+
+div.etr89bj1 {
+
+    width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
